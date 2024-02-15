@@ -1,6 +1,6 @@
 <?php 
-    define('DB_HOST','localhost');
-    define('DB_USER','root');
+    define('DB_HOST','ckempleavesys-server.mysql.database.azure.com');
+    define('DB_USER','puwbdmyvjf');
     define('DB_PASS','');
     define('DB_NAME','employeeleavedb');
     
