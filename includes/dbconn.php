@@ -1,8 +1,8 @@
 <?php 
     define('DB_HOST','ckempleavesystemweb-server.mysql.database.azure.com');
     define('DB_USER','mfpzhemtcc');
-    define('DB_PASS','admin@123');
-    define('DB_NAME','employeeleavedb');
+    define('DB_PASS','MASMW6K5G464X4LW$');
+    define('DB_NAME','ckempleavesystemweb-database');
     
     try
     {
