@@ -111,6 +111,10 @@
             </div>
         </div>
     </div>
+    <center>
+        <iframe src='https://webchat.botframework.com/embed/RRLanguageService-bot?s=MPVyZiDKeEE.zRcqrcZKhLDJ4afxwmpEavaCI3w2X9DtBmpbvZv2kZE'  style='min-width: 300px; width: 60%; min-height: 250px;'></iframe>
+        <h2 style="font-family: Arial, sans-serif; text-align: center; margin-top: 100px;color: #333;">Query Bot</h2>
+    </center>
     <!-- login area end -->
 
     <!-- jquery latest version -->
